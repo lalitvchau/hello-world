@@ -1,5 +1,7 @@
 new file for stash
 
 new merge change
-practise for stash
+practice for stash
 with conflict
+
+new change

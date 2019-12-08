@@ -5,3 +5,5 @@ practice for stash
 with conflict
 
 new change
+
+new changes

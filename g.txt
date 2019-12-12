@@ -6,8 +6,18 @@ with conflict
 
 new change
 
-new changes
-sdvdsv
 dsfsd]]eww
 
 I am editing the master branch for cherry pick
+
+new changes
+sdvdsv
+<<<<<<< .mine
+dsfsd]]eww
+
+I am editing the master branch for cherry pick
+=======
+dsfsd]]eww
+
+Release change 1
+>>>>>>> .theirs

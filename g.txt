@@ -6,10 +6,26 @@ with conflict
 
 new change
 
+dsfsd]]eww
+
+I am editing the master branch for cherry pick
+
 new changes
 sdvdsv
 dsfsd]]eww
 
 Release change 1
+
+Release change 2
+
+
+dsfsd]]eww
+
+I am editing the master branch for cherry pick
+
+dsfsd]]eww
+
+Release change 1
+
 
 Release change 2

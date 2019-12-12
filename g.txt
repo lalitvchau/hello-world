@@ -20,4 +20,9 @@ I am editing the master branch for cherry pick
 dsfsd]]eww
 
 Release change 1
+<<<<<<< HEAD
 >>>>>>> .theirs
+=======
+
+Release change 2
+>>>>>>> 2bccca8... Release change 2

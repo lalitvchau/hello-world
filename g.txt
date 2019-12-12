@@ -25,4 +25,9 @@ Release change 1
 =======
 
 Release change 2
+<<<<<<< HEAD
 >>>>>>> 2bccca8... Release change 2
+=======
+
+git cherry pick from cmd
+>>>>>>> 67d947c... release-commit1
